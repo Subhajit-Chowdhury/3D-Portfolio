@@ -15,37 +15,13 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior AI Engineer</h4>
-                <h5>KoiReader Technologies</h5>
+                <h4>Data Engineer</h4>
+                <h5>Tata Consultancy Services</h5>
               </div>
-              <h3>07/2023–Current</h3>
+              <h3>07/2022–Present</h3>
             </div>
             <p>
-              Developed an end-to-end Agentic RAG pipeline using Vision LLMs and OCR. Engineered a multi-agent GPT system with Agno, LightRAG, and Qdrant. Designed and deployed a company-wide Coding Agent. Led AI-first automation initiatives for non-technical teams. Fine-tuned LLMs using QLoRA and optimized for edge deployment.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>AI Engineer</h4>
-                <h5>KoiReader Technologies</h5>
-              </div>
-              <h3>11/2020–06/2023</h3>
-            </div>
-            <p>
-              Engineered CV pipelines for automated yard and warehouse operations. Boosted cross-camera tracking efficiency by 40% with SwinV2 classifier. Built SAM2-powered augmentation system using Generative AI. Optimized Brand Safety Multi-label Classification model. Built ML models for YouTube subscriber forecasting.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Data Scientist</h4>
-                <h5>Vidooly Media Tech.</h5>
-              </div>
-              <h3>09/2019–08/2020</h3>
-            </div>
-            <p>
-              Enhanced the Oriented Object Detection tracking pipeline from 10 FPS to 30 FPS, enabling precise real-time vehicle tracking at production scale.
+              Reduced compute and storage costs by ~$487K annually by optimizing S3 storage patterns and Glue/Athena query execution. Engineered 150+ production-grade ETL/ELT pipelines processing hundreds of GBs daily. Designed and deployed Delta Lake-based lakehouse architecture providing ACID guarantees. Developed near real-time event-driven pipelines using EventBridge, Lambda, DynamoDB Streams, and Snowflake Snowpipe.
             </p>
           </div>
         </div>

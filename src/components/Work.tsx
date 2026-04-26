@@ -5,31 +5,17 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "BeSpoke Technologies",
-    category: "AI-Powered Beauty Platform",
-    tools: "GCP Cloud Functions, MobileNet/ResNet, Custom Tools, RAG",
+    title: "Serverless Batch Analytics ETL Pipeline",
+    category: "AWS, PySpark, Athena",
+    tools: "S3, Glue, Athena, Medallion Architecture",
     image: "/images/callhq.png",
     link: "#",
   },
   {
-    title: "HakiSense",
-    category: "Agentic AI Quantitative Analysis",
-    tools: "20+ specialized agents, Custom Tools, RAG Pipelines",
+    title: "Near Real-Time ELT Pipeline",
+    category: "AWS, Snowflake",
+    tools: "EventBridge, Lambda, Snowflake Snowpipe",
     image: "/images/whatsapp.png",
-    link: "#",
-  },
-  {
-    title: "Fortune 50 Client Acquisition",
-    category: "Scalable Production System",
-    tools: "Edge Devices, Model Optimization",
-    image: "/images/broki.png",
-    link: "#",
-  },
-  {
-    title: "AI Community Leadership",
-    category: "Online AI Community",
-    tools: "8,000+ members, Deep Learning Projects",
-    image: "/images/orrdr.png",
     link: "#",
   },
 ];

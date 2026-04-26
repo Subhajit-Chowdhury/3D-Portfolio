@@ -11,32 +11,32 @@ const Contact = () => {
             <h4>Connect</h4>
             <p>
               <a
-                href="mailto:alaapdhall9@gmail.com"
+                href="mailto:er.subhajitchowdhury@gmail.com"
                 target="_blank"
                 rel="noreferrer"
                 data-cursor="disable"
               >
-                alaapdhall9@gmail.com
+                er.subhajitchowdhury@gmail.com
               </a>
             </p>
             <p>
               <a
-                href="https://www.linkedin.com/in/alaapdhall/"
+                href="https://www.linkedin.com/in/subhajit-dataengineer/"
                 target="_blank"
                 rel="noreferrer"
                 data-cursor="disable"
               >
-                LinkedIn — alaapdhall
+                LinkedIn — subhajit-dataengineer
               </a>
             </p>
             <p>
-              +91 8851920431
+              +91 7029860941
             </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://www.linkedin.com/in/alaapdhall/"
+              href="https://www.linkedin.com/in/subhajit-dataengineer/"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -47,7 +47,7 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Alaap Dhall</span>
+              Designed and Developed <br /> by <span>Subhajit Chowdhury</span>
             </h2>
             <h5>
               <MdCopyright /> 2026

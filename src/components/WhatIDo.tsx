@@ -87,19 +87,19 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>MULTI-AGENTIC LLM PIPELINES</h3>
-              <h4>Scalable AI Agents & RAG</h4>
+              <h3>DATA ENGINEERING & LAKEHOUSE</h3>
+              <h4>Scalable ETL/ELT Pipelines</h4>
               <p>
-                Building specialized AI agent ecosystems and RAG pipelines for complex analysis, automated scanning, and natural language database querying.
+                Building serverless batch and near real-time event-driven pipelines using AWS and Snowflake. Designing Medallion architectures and scalable data lake solutions.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">RAG & Agentic-RAG</div>
-                <div className="what-tags">Agno & Crew AI</div>
-                <div className="what-tags">LangChain</div>
-                <div className="what-tags">Qwen & Claude</div>
-                <div className="what-tags">Vector DBs</div>
-                <div className="what-tags">GuardRails</div>
+                <div className="what-tags">PySpark</div>
+                <div className="what-tags">AWS Glue</div>
+                <div className="what-tags">Delta Lake</div>
+                <div className="what-tags">Snowflake</div>
+                <div className="what-tags">S3 & Athena</div>
+                <div className="what-tags">Python</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -123,20 +123,20 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>COMPUTER VISION & EDGE COMPUTING</h3>
-              <h4>Optimized Edge AI Solutions</h4>
+              <h3>ORCHESTRATION & OPTIMIZATION</h3>
+              <h4>Automated Workflows & Cost Reduction</h4>
               <p>
-                Developing end-to-end CV pipelines for object detection, tracking, and OCR, optimized for edge devices like Jetson AGX to run at production scale.
+                Orchestrating resilient data workflows, optimizing SQL queries across MPP environments, and implementing CI/CD deployment pipelines.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">PyTorch</div>
-                <div className="what-tags">YOLO & DeTR</div>
-                <div className="what-tags">TensorRT & CUDA</div>
-                <div className="what-tags">DeepStream</div>
-                <div className="what-tags">FastAPI</div>
-                <div className="what-tags">Python</div>
-                <div className="what-tags">Docker & K8S</div>
+                <div className="what-tags">Step Functions</div>
+                <div className="what-tags">Airflow</div>
+                <div className="what-tags">Jenkins & Git</div>
+                <div className="what-tags">Redshift</div>
+                <div className="what-tags">EventBridge</div>
+                <div className="what-tags">DynamoDB</div>
+                <div className="what-tags">SQL</div>
               </div>
               <div className="what-arrow"></div>
             </div>
