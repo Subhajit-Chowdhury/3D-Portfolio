@@ -6,21 +6,17 @@ Built with **React, TypeScript, Three.js, and GSAP**, this 3D portfolio is desig
 
 ---
 
-## 📖 The Story Behind the Build (The STAR Method)
+## 📖 The Story Behind the Build
 
-### **Situation**
-In the world of data engineering, the challenge is turning raw, chaotic data into structured, meaningful insights. Similarly, the modern web is filled with static, flat resumes that fail to capture the dynamic nature of a true engineering career. I needed a platform that stood out and truly reflected a commitment to modern architecture and design.
+In the world of data engineering, the core challenge is turning raw, chaotic data into structured, meaningful insights. I realized the modern web shares a similar challenge—it is filled with static, flat resumes that fail to capture the dynamic nature of a true engineering career. I needed a platform that stood out and reflected a deep commitment to modern architecture and design.
 
-### **Task**
 The objective was to engineer a personal portfolio that didn’t just "list" skills, but demonstrated them through an engaging, high-performing medium. The goal was to build a responsive, interactive 3D web application that was just as optimized and meticulously structured as the AWS and Snowflake pipelines I build for enterprise analytics.
 
-### **Action**
-I adopted a modern frontend tech stack—**React 18, TypeScript, and Vite**—and integrated **React Three Fiber** for 3D rendering. To ensure the storytelling was fluid, I utilized **GSAP (GreenSock)** for smooth scrolling animations and transitions. 
+To achieve this, I adopted a modern frontend tech stack—**React 18, TypeScript, and Vite**—and integrated **React Three Fiber** for 3D rendering. To ensure the storytelling was fluid, I utilized **GSAP (GreenSock)** for smooth scrolling animations and transitions. 
 - Modeled the codebase architecture to be highly modular, much like a Medallion data architecture.
 - Implemented state management and optimized 3D assets to ensure low latency and reduced compute overhead on the client side.
 
-### **Result**
-A production-grade, interactive 3D portfolio that successfully translates my professional data engineering career into a visual narrative. It features animated page sections, a custom 3D physics-based tech stack showcase, and smooth transitions that provide a seamless user experience across devices without sacrificing performance.
+The final outcome is a production-grade, interactive 3D portfolio that successfully translates my professional data engineering career into a visual narrative. It features animated page sections, a custom 3D physics-based tech stack showcase, and smooth transitions that provide a seamless user experience across devices without sacrificing performance.
 
 ---
 
